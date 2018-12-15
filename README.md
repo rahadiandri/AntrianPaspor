@@ -3,9 +3,7 @@ by :  Kelompok 7
       Andri Rahadian Fikri  (1706104501)
       Iqbal Fadlli B.       (1706104546)
       
-=================
-DESKRIPSI PROGRAM
-=================
+=================DESKRIPSI PROGRAM=================
 Program Antrian Pembuatan Paspor. Merupakan tugas untuk memenuhi Proyek Akhir dari mata kuliah Algoritma Pemrograman.
 
 Program ini bertujuan untuk memudahkan pembuat paspor ketika mendaftar antrian pembuatan paspor. Untuk melakukan pendaftaran, pendaftar diwajibkan untuk memasukan identitas diri yang diperlukan seperti nama dan nomor KTP agar dapat membuat paspor. Setelah pendaftar melakukan penginputan identitas diri, pendaftar akan mendapatkan nomor antrian dan juga jadwal pembuatan paspor.
@@ -22,9 +20,7 @@ Aspek yang diterapkan:
 - Enqueue & Dequeue
 - Fullscreen
 
-==========
-CARA KERJA
-==========
+==========CARA KERJA==========
 Pada program utama terdapat 7 pilihan yaitu:
 1. Pengajuan pembuatan paspor.
     Untuk mendaftar antrian pembuatan paspor. Program akan meminta pengguna untuk mengisi nama dan nomor KTP/Identitas lain. Jika
