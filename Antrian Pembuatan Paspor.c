@@ -1,3 +1,10 @@
+/*
+Program Antrian Pembuatan Paspor
+Kelompok 2
+Oleh		: 	Andri Rahadian Fikri 	(1706104501)
+				Iqbal Fadlli B.			(1706104546)
+Link Github	:	https://github.com/rahadiandri/AntrianPaspor
+*/
 #include <stdio.h>			//Daftar-daftar library yang dipakai
 #include <stdlib.h>
 #include <conio.h>
